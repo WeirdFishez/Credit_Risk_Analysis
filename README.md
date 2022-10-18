@@ -59,7 +59,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 ### Model: BalancedRandomForestClassifier
 - Balanced Accuracy Score: 0.794967789501674
 - Precision: 0.99
-- recall: 0.90
+- recall: 0.91
 
 ![image](https://user-images.githubusercontent.com/107438816/196525015-824808cc-0bcc-45f5-8d65-d49ecdbe09af.png)
 ![image](https://user-images.githubusercontent.com/107438816/196525256-3d631f5f-954e-4222-8795-e7fe918dafc5.png)
