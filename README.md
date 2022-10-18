@@ -2,7 +2,8 @@
 
 
 ## Overview of the analysis
-For this assignemt, we were asked to assist a credit card company in developing a machine learning model that allows them to detect a small percentage of fradulant transactions in their system. In this process we tested 6 different supervised machine learning models and assessed their accuracy in detecting fraud from sample data.
+For this assignment, we were asked to assist a credit card company in developing a machine learning model that allows them to detect a small percentage of fraudulent transactions in their system. In this process we tested 6 different supervised machine learning models and assessed their accuracy in detecting fraud from sample data.
+
 
 ## Results
 Accuracy = (TP + TN) / (TP + FP + TN + FN)
