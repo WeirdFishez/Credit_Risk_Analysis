@@ -6,7 +6,9 @@ Explain the purpose of this analysis.
 
 ## Results
 Accuracy = (TP + TN) / (TP + FP + TN + FN)
+
 Precision = TP/(TP + FP)
+
 Sensitivity = TP/(TP + FN)
 
 
