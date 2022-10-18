@@ -2,7 +2,7 @@
 
 
 ## Overview of the analysis
-Explain the purpose of this analysis.
+For this assignemt, we were asked to assist a credit card company in developing a machine learning model that allows them to detect a small percentage of fradulant transactions in their system. In this process we tested 6 different supervised machine learning models and assessed their accuracy in detecting fraud from sample data.
 
 ## Results
 Accuracy = (TP + TN) / (TP + FP + TN + FN)
@@ -11,7 +11,7 @@ Precision = TP/(TP + FP)
 
 Recall/Sensitivity = TP/(TP + FN)
 
-F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
+F1/harmonic mean = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 
 ### Model: ClusterCentroids
@@ -78,4 +78,4 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 
 ## Summary
-As can be seen from the outputs above, the most sucessfull models for our credit risk analysis came out to be BalancedRandomCForestClassifier with a  Balanced
+As can be seen from the outputs above, the most sucessfull models for our credit risk analysis came out to be our Ensemble models BalancedRandomCForestClassifier and EasyEnsembleClassifier. All models had a high precision of .99, however this means nothing when they misses the 10-15 true fradulent activities. Therefore We can look to the balanced accuracy score for both models which are leaders with .795. We can also look at the F1 score for both models which is a high .94-.95. This tells us that there is not a pronounced imabalance between sensitivity and precision.
