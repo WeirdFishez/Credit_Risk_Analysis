@@ -69,7 +69,7 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 ### Model: EasyEnsembleClassifier
 - Balanced Accuracy Score: 0.7953112472855757
 - Precision: 0.99
-- recall: 0.89
+- recall: 0.90
 
 ![image](https://user-images.githubusercontent.com/107438816/196524268-749a2032-2f87-4aaa-b230-eeb071c06eb4.png)
 ![image](https://user-images.githubusercontent.com/107438816/196524341-28105d50-9a37-47d9-a4d0-ff2b5955351a.png)
@@ -78,5 +78,4 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 
 ## Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-Top perfomring: 
+As can be seen from the outputs above, the most sucessfull models for our credit risk analysis came out to be BalancedRandomCForestClassifier with a  Balanced
