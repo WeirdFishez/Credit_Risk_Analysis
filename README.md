@@ -51,6 +51,9 @@ F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 - Precision: 0.99
 - recall: 0.57
 
+![image](https://user-images.githubusercontent.com/107438816/196529068-21eb0a5d-b1b9-4e1c-bed9-329a272920c0.png)
+![image](https://user-images.githubusercontent.com/107438816/196529121-84dcc4d7-0ef5-4d66-a3a9-1b1eda5c6cad.png)
+![image](https://user-images.githubusercontent.com/107438816/196529168-260f9660-39b5-4872-9a3f-ce39eff67429.png)
 
 
 ### Model: BalancedRandomForestClassifier
