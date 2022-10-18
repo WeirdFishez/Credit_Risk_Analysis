@@ -14,6 +14,7 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 - Balanced Accuracy Score: 0.5103893461611291
 - Precision: 0.99
 - recall: 0.44
+
 ![image](https://user-images.githubusercontent.com/107438816/196526215-433a1d38-01b2-4c43-af2b-5849bf4bd320.png)
 ![image](https://user-images.githubusercontent.com/107438816/196526260-c72a45a1-f361-400a-83e3-365d0d09cd28.png)
 ![image](https://user-images.githubusercontent.com/107438816/196526298-fda142b1-16ef-45c4-b213-e20fa54a2f3a.png)
@@ -24,6 +25,7 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 - Balanced Accuracy Score: 0.6366972052004142
 - Precision: 0.99
 - recall: 0.65
+
 ![image](https://user-images.githubusercontent.com/107438816/196525843-1ac50c94-5c5a-4362-9f7b-ddcd8bff8ab3.png)
 ![image](https://user-images.githubusercontent.com/107438816/196525890-251d4551-849b-44c4-ab73-6ca561613658.png)
 ![image](https://user-images.githubusercontent.com/107438816/196525923-a92219b9-ab2c-4afe-bc2c-5b3e8e4e04db.png)
@@ -33,6 +35,7 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 - Balanced Accuracy Score: 0.6453944426314708
 - Precision: 0.99
 - recall: 0.66
+
  ![image](https://user-images.githubusercontent.com/107438816/196525979-2cb2670d-cd1a-4dfa-a383-316fbd0ad47e.png)
  ![image](https://user-images.githubusercontent.com/107438816/196526017-48a64520-c05c-4a33-9b66-79fb60c857e8.png)
  ![image](https://user-images.githubusercontent.com/107438816/196526062-a44bb8d9-4895-4d6a-879d-e279404a1a77.png)
