@@ -36,6 +36,8 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 - recall: 0.90
 ![image](https://user-images.githubusercontent.com/107438816/196523939-e3a5471d-72a8-48fa-b34e-dca11c2fa98e.png)
 ![image](https://user-images.githubusercontent.com/107438816/196524131-f640ddc5-29ef-47ef-be97-0b69f819322c.png)
+![image](https://user-images.githubusercontent.com/107438816/196524586-c1a20742-e4b1-4721-88aa-a78f8204f883.png)
+
 
 
 
