@@ -10,8 +10,8 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 Accuracy = (TP + TN) / (TP + FP + TN + FN)
 
 
-### Model: LogisticRegression
-- Balanced Accuracy Score: 0.510
+### Model: ClusterCentroids
+- Balanced Accuracy Score: 0.5103893461611291
 - Precision: 0.99
 - recall: 0.44
 
