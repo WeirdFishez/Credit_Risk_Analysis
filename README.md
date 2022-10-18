@@ -5,9 +5,10 @@
 Explain the purpose of this analysis.
 
 ## Results
-Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
 Accuracy = (TP + TN) / (TP + FP + TN + FN)
+Precision = TP/(TP + FP)
+Sensitivity = TP/(TP + FN)
+
 
 
 ### Model: ClusterCentroids
@@ -72,3 +73,6 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 
 ## Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
+Over Sampling:
+UNder Sampling:
+Combnination:
