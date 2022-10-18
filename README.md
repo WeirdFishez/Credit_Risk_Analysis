@@ -11,6 +11,7 @@ Precision = TP/(TP + FP)
 
 Sensitivity = TP/(TP + FN)
 
+F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 
 
 ### Model: ClusterCentroids
@@ -75,6 +76,4 @@ Sensitivity = TP/(TP + FN)
 
 ## Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-Over Sampling:
-UNder Sampling:
-Combnination:
+Top perfomring: 
