@@ -9,7 +9,7 @@ Accuracy = (TP + TN) / (TP + FP + TN + FN)
 
 Precision = TP/(TP + FP)
 
-Sensitivity = TP/(TP + FN)
+Recall/Sensitivity = TP/(TP + FN)
 
 F1 = 2(Precision * Sensitivity)/(Precision + Sensitivity)
 
