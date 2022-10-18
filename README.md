@@ -7,6 +7,9 @@ Explain the purpose of this analysis.
 ## Results
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
+Accuracy = (TP + TN) / (TP + FP + TN + FN)
+
+
 ### Model: LogisticRegression
 - Balanced Accuracy Score: 0.510
 - Precision: 0.99
